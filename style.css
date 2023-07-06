@@ -1,0 +1,38 @@
+body{
+    padding: 0%;
+    display: inline-flex;
+    gap: 10px;
+  margin-top:350px;
+}
+.sofia{
+  width: 20%;
+  padding: 20px;
+  border: 10px solid blue;
+  font-family: "Sofia", sans-serif;
+  text-align: justify;
+}
+.trirong{
+  width: 20%;
+  padding: 20px;
+  border: 10px solid violet;
+  font-family: "Trirong", serif;
+}
+.aiowideud{
+    width: 20%;
+    padding: 20px;
+    border:10px solid green ;
+    font-family: "Audiowide", sans-serif;
+}
+
+.fire{
+    width: 20%;
+    padding: 20px;
+    border: 10px solid slateblue;
+    font-family: "Sofia", sans-serif;
+}
+.neon{
+    width: 20%;
+    padding: 20px;
+    border: 10px solid yellowgreen;
+    font-family: "Sofia", sans-serif;
+}
